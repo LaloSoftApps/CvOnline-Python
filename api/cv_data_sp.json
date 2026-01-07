@@ -1,0 +1,274 @@
+{
+  "header": {
+    "name": "Gonzalo David",
+    "surname": "Santilli",
+    "description": "DevOps | SRE | Administrador de Sistemas Windows | Desarrollador e Implementador con sólida experiencia en automatización | Cloud | CI/CD | Observabilidad y soporte de infraestructuras críticas",
+    "photo": "profile.png"
+  },
+  "contact": {
+    "birthdate": "1981-01-29",
+    "email": "gsantilli@gmail.com",
+    "phone": "+54 341 5084813",
+    "address": "El Avellano 2358 - Alvear (2130) - Santa Fe - Argentina",
+    "linkedin": "https://www.linkedin.com/in/gonzalo-santilli-1446b1100",
+    "github": "https://github.com/LaloSoftApps"
+  },
+  "experience": [
+    {
+      "company": "Mobile Computing / GridDynamics",
+      "position": "DevOps",
+      "from": "2022-03-14",
+      "to": "Actualidad",
+      "technologies": [
+        "CI/CD",
+        "Docker",
+        "Kubernetes",
+        "GitLab",
+        "Azure DevOps",
+        "Azure Services",
+        "AWS",
+        "Terraform",
+        "Datadog",
+        "Grafana",
+        "Jira",
+        "Git",
+        "SQL Server",
+        "MySQL",
+        "PostgreSQL"
+      ]
+    },
+    {
+      "company": "San Cristóbal Seguros",
+      "position": "Site Reliability Engineer (SRE)",
+      "from": "2021-03-19",
+      "to": "2022-03-11",
+      "technologies": [
+        "Automatización",
+        "Monitoreo",
+        "Prometheus",
+        "Grafana",
+        "SLI",
+        "SLO"
+      ]
+    },
+    {
+      "company": "San Cristóbal Seguros",
+      "position": "DevOps",
+      "from": "2020-12-09",
+      "to": "2021-06-19",
+      "technologies": [
+        "CI/CD",
+        "Terraform",
+        "AWS",
+        "Azure Services",
+        "Azure DevOps",
+        "Docker",
+        "Kubernetes"
+      ]
+    },
+    {
+      "company": "LaloSoft Apps",
+      "position": "Desarrollador Independiente",
+      "from": "2018-01-01",
+      "to": "2020-12-01",
+      "technologies": [
+        "PHP",
+        "Web Services",
+        "XML",
+        "JSON",
+        ".NET",
+        "PowerShell"
+      ]
+    },
+    {
+      "company": "ESG Dilec / BLC Group",
+      "position": "Soporte Técnico y Mesa de Ayuda",
+      "from": "2017-12-01",
+      "to": "2020-12-08",
+      "technologies": [
+        "Soporte Técnico",
+        "Windows",
+        "Linux",
+        "Virtualización",
+        "Automatización",
+        "Sistemas Web"
+      ]
+    },
+    {
+      "company": "Centro Social El Galpón",
+      "position": "Encargado del Proyecto de Inclusión Digital (Ad Honorem)",
+      "from": "2016-01-01",
+      "to": "2016-12-01",
+      "technologies": [
+        "Gestión de Proyectos",
+        "Capacitación",
+        "Documentación"
+      ]
+    },
+    {
+      "company": "Dattatec / DonWeb",
+      "position": "Administrador de Servidores Windows",
+      "from": "2011-01-01",
+      "to": "2016-05-01",
+      "technologies": [
+        "Windows Server",
+        "Backups",
+        "Seguridad",
+        "XenServer",
+        "OpenStack",
+        "Virtualización",
+        "Monitoreo"
+      ]
+    },
+    {
+      "company": "Dattatec /DonWeb",
+      "position": "Técnico Especialista en Bases de Datos y Servidores Windows",
+      "from": "2009-01-01",
+      "to": "2010-12-01",
+      "technologies": [
+        "Windows Server",
+        "Active Directory",
+        "SQL Server",
+        "MySQL"
+      ]
+    },
+    {
+      "company": "Dattatec /DonWeb",
+      "position": "Soporte Técnico",
+      "from": "2007-08-25",
+      "to": "2008-12-01",
+      "technologies": [
+        "Soporte Técnico",
+        "Windows",
+        "Servidores"
+      ]
+    },
+    {
+      "company": "Stud Los Melli",
+      "position": "Encargado del Desarrollo Web",
+      "from": "2006-01-01",
+      "to": "2008-12-01",
+      "technologies": [
+        "Desarrollo Web",
+        "Hosting",
+        "Dominios",
+        "Email Marketing"
+      ]
+    },
+    {
+      "company": "Nasa Computación (Armstrong)",
+      "position": "Atención al Público / Soporte",
+      "from": "2002-01-01",
+      "to": "2003-01-01",
+      "technologies": [
+        "Atención al Cliente",
+        "Soporte Técnico"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "Universitario",
+      "institution": "Universidad Abierta Interamericana - Rosario",
+      "title": "Ingeniería en Sistemas de Información",
+      "date": "2007 - 2010"
+    },
+    {
+      "degree": "Terciario",
+      "institution": "Instituto Superior Particular Incorporado Nº 4011 \"Gral. Manuel Belgrano\" - Rosario",
+      "title": "Analista en Sistemas de Información",
+      "date": "2004 - 2006"
+    },
+    {
+      "degree": "Secundario",
+      "institution": "Escuela Nacional Normal de Comercio Dr. M. Belgrano - Armstrong",
+      "title": "Perito Mercantil con Especialización Contable e Impositiva",
+      "date": "1994 - 1998"
+    },
+    {
+      "degree": "Inicial",
+      "institution": "Escuela Superior Dr. Mariano Moreno - Armstrong",
+      "title": "Nivel Inicial",
+      "date": "1987 - 1993"
+    }
+  ],
+  "courses": [
+    {
+      "name": "Application Security and Secure Coding Training",
+      "institution": "CodeBashing",
+      "date": "2022-11-14"
+    },
+    {
+      "name": "AWS Immersion Day – General and Fundamentals Services",
+      "institution": "Escala",
+      "date": "2021-09 / 2021-10"
+    },
+    {
+      "name": "Introducción a Azure",
+      "institution": "DataHack Formation",
+      "date": "2021-05-02"
+    },
+    {
+      "name": "Certificación DevOps",
+      "institution": "MundosE",
+      "date": "2021 - 2022"
+    },
+    {
+      "name": "Programación ASP .NET Core MVC",
+      "institution": "EducaciónIT",
+      "date": "2020"
+    },
+    {
+      "name": "Programación C# .NET Core 3.1",
+      "institution": "Polo Tecnológico Rosario",
+      "date": "2020"
+    },
+    {
+      "name": "Oracle PL/SQL",
+      "institution": "Polo Tecnológico Rosario",
+      "date": "2019"
+    },
+    {
+      "name": "Programación Orientada a Objetos en PHP",
+      "institution": "EducaciónIT",
+      "date": "2018"
+    },
+    {
+      "name": ".NET 4.0 y Visual Studio 2010",
+      "institution": "Grupo de Usuarios Microsoft",
+      "date": "2011"
+    }
+  ],
+  "languages": [
+    "Español – Nativo",
+    "Inglés – Básico"
+  ],
+  "skills": [
+    "DevOps",
+    "SRE",
+    "AWS",
+    "Azure Services",
+    "Docker",
+    "Kubernetes",
+    "Terraform",
+    "CI/CD",
+    "Git",
+    "PowerShell",
+    "PHP",
+    "C# .NET",
+    "C# .NET Core",
+    "SQL Server",
+    "MySQL",
+    "PostgreSQL",
+    "SysAdmin Windows",
+    "Linux",
+    "SCRUM",
+    "Application Security"
+  ],
+  "interests": [
+    "IT",
+    "Desarrollo",
+    "Running",
+    "Música"
+  ]
+}
