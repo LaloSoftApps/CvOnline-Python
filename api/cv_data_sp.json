@@ -14,11 +14,20 @@
     "github": "https://github.com/LaloSoftApps"
   },
   "experience": [
+   {
+      "company": "Coderio / Banco Galicia",
+      "position": "SRE",
+      "from": "2026-04-20",
+      "to": "actualidad",
+      "technologies": [
+        "IA Ops"
+      ]
+    },
     {
       "company": "Mobile Computing / GridDynamics",
       "position": "DevOps",
       "from": "2022-03-14",
-      "to": "Actualidad",
+      "to": "2026-04-17",
       "technologies": [
         "CI/CD",
         "Docker",
