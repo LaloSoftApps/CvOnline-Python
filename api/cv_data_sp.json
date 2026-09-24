@@ -15,19 +15,28 @@
   },
   "experience": [
    {
-      "company": "Coderio / Banco Galicia",
-      "position": "SRE",
-      "from": "2026-04-20",
+      "company": "Softtek / Grupo Tenaris",
+      "position": "DevOps",
+      "from": "2026-06-01",
       "to": "actualidad",
       "technologies": [
-        "IA Ops"
+        "CI/CD",
+        "Docker",
+        "Kubernetes",
+        "Azure DevOps",
+        "Azure Services",
+        "Terraform",
+        "Grafana",
+        "Git",
+        "SQL Server",
+        "PostgreSQL"
       ]
     },
     {
       "company": "Mobile Computing / GridDynamics",
       "position": "DevOps",
       "from": "2022-03-14",
-      "to": "2026-04-17",
+      "to": "2026-05-29",
       "technologies": [
         "CI/CD",
         "Docker",
