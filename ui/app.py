@@ -1,3 +1,4 @@
+import os
 import streamlit as st
 import json
 import base64
@@ -8,11 +9,16 @@ import requests
 # ----------------------------------
 st.set_page_config(page_title="Curriculum Vitae", layout="wide")
 
+BASE_API_URL = os.getenv("API_URL", "http://api:8000")
 
 # ----------------------------------
 # Configuración API
 # ----------------------------------
-API_URL = "http://localhost:8000/cv" # Reemplazar por la URL real
+if BASE_API_URL.endswith("/cv"):
+    API_URL = BASE_API_URL
+else:
+    API_URL = f"{BASE_API_URL.rstrip('/')}/cv"
+
 API_TIMEOUT = 10
 
 # ----------------------------------
